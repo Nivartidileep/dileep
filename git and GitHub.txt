@@ -1,0 +1,49 @@
+git and GitHub
+how to config git
+how to push the code
+how to pull
+how to clone
+how to collab
+how to branches
+how to raise pull request
+conflicts
+
+GitHub
+GitHub is  a platform where we can store the project related code
+
+Git 
+Git is version control system,  that tracks the  changes in a set of files
+
+repo
+file folder
+
+GIT (global information tracker)
+3 components
+
+1. working directory
+2.staging area
+3.remote repo
+
+open cmd command prompt
+git config   --list
+               (or)
+git config --global user.name 'githubname'
+git config --global user.email 'githubemail'
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
